@@ -1,7 +1,5 @@
 # Evaluated Guardrail Agent with CI
 
-[![CI](https://github.com/YOUR_ORG/YOUR_REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_ORG/YOUR_REPO/actions/workflows/ci.yml)
-
 A production-ready **LLM safety middleware** with a fully automated, offline CI evaluation pipeline.
 Every push runs a labeled benchmark to detect regressions in prompt-injection defence, PII redaction, and benign task accuracy — without requiring any paid API keys.
 
